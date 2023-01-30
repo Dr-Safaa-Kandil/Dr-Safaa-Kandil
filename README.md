@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 My name : Safaa Rizk Kandil
-<br> <font color=red> I'm holding PHD in education of computer science and Management Sciences </font>
+<br>  I'm holding PHD in education of computer science and Management Sciences 
 
 - 🔭 I’m currently working part time on giving traning courses with  DTC
 - 🌱 I’m currently learning AI , Deep Learning
